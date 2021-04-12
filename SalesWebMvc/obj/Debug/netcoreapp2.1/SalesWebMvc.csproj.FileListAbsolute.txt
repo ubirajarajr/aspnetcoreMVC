@@ -33,3 +33,4 @@ C:\Users\Administrador.SLT-002364\Desktop\projetoMVC\SalesWebMvc\SalesWebMvc\obj
 C:\Users\Administrador.SLT-002364\Desktop\projetoMVC\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.pdb
 C:\Users\Administrador.SLT-002364\Desktop\projetoMVC\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.genruntimeconfig.cache
 C:\Users\Administrador.SLT-002364\Desktop\projetoMVC\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.csproj.CopyComplete
+C:\Users\Administrador.SLT-002364\Desktop\projetoMVC\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departaments\Index.cshtml.g.cs
